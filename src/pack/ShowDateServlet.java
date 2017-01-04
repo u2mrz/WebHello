@@ -10,6 +10,7 @@ import javax.servlet.http.HttpServletResponse;
 
 /**
 * Servlet implementation class ShowDateServlet
+* Git test
 */
 @WebServlet(name = "ShowDate", urlPatterns = { "/ShowDate" })
 public class ShowDateServlet extends javax.servlet.http.HttpServlet
