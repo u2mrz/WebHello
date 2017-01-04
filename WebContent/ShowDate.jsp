@@ -8,7 +8,7 @@
 </head>
 <body>
 
-<%= new java.util.Date() %>
+<%= "¡‚ÌŽžŠÔ‚Í"+new java.util.Date() %>
 
 </body>
 </html>
